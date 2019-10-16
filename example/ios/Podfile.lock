@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wheel_menu (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - wheel_menu (from `.symlinks/plugins/wheel_menu/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  wheel_menu:
+    :path: ".symlinks/plugins/wheel_menu/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  wheel_menu: e7b24bf5ede853284f61735cd987cf76cc71f2c8
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.7.0
